@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9bd171d659765a14cb371d14635bae55
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pixar One
+  fontNames:
+  - Pixar One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 33c4f5ba7897c0344b1e12cf0be96ac6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
